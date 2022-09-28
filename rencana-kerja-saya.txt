@@ -1,6 +1,9 @@
 RENCANA KERJA SAYA 
 
-1. WEB DEVELOVER
+1. WEB DEVELOPER
+    * frontend developer
+    * backend developer
+    * fullstack developer
 2. DOSEN IT
 3. BUMN
 4. INALUM
