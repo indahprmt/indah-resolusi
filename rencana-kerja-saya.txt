@@ -3,7 +3,9 @@ RENCANA KERJA SAYA
 1. WEB DEVELOPER
     * frontend developer
     * backend developer
-    * fullstack developer
 2. DOSEN IT
+    * mengampu matkul pemrograman web dasar
 3. BUMN
+    * WebDev
 4. INALUM
+    * operator
